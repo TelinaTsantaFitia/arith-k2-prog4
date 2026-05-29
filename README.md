@@ -1,1 +1,0 @@
-# poja-starter-template
