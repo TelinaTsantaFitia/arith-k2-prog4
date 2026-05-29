@@ -1,0 +1,5 @@
+# Created at 2026-05-29T09:35:36.438
+Boot Manifest-JAR contains absolute paths in classpath 'E:\TELINA\k2\arith-k2-prog4\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
